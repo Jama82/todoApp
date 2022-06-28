@@ -1,11 +1,11 @@
 :root {
-	--dark: #374151;
-	--darker: #1f2937;
-	--darkest: #111827;
-	--grey: #6b7280;
-	--pink: #ec4899;
-	--purple: #8b5cf6;
-	--light: #eee;
+	--dark: #b4e197;
+	--darker: #83bd75;
+	--darkest: #4e944f;
+	--grey: #444941;
+	--pink: #446a46;
+	--purple: #ff9f29;
+	--light: #e9efc0;
 }
 
 * {
@@ -149,5 +149,5 @@ main {
 }
 
 .task .actions .delete {
-	color: crimson;
+	color: #b33030;
 }
